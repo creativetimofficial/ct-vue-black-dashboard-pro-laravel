@@ -1,11 +1,11 @@
 # Changelog
 
-All notable changes to `Vue Argon Dashboard PRO Laravel`  will be documented in this file.
+All notable changes to `Vue Black Dashboard PRO Laravel`  will be documented in this file.
 
 ## Version 1.0.0
 
 ### Added
-- Vue Argon Dashboard PRO
+- Vue Black Dashboard PRO
 - Login
 - Register
 - Profile edit

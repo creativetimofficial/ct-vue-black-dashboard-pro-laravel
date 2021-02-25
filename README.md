@@ -1042,9 +1042,8 @@ We use GitHub Issues as the official bug tracker for the Black Kit. Here are som
 
 ## Licensing
 
-- Copyright 2020 Creative Tim (https://www.creative-tim.com/?ref=vbdpl-readme)
-
-- Creative Tim license - (https://www.creative-tim.com/license)
+- Copyright Creative Tim (https://www.creative-tim.com/?ref=vbdpl-readme)
+- Creative Tim License (https://www.creative-tim.com/license).
 
 ## Useful Links
 

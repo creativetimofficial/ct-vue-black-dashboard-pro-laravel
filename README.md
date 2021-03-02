@@ -63,9 +63,9 @@ Install VueCLI: https://cli.vuejs.org/guide/installation.html
 1. Navigate to your Vue Black Dashboard project folder: `cd your-vue-black-dashboard-project`
 2. Install project dependencies: `npm install`
 3. Create a new .env file: `cp .env.example .env`
-4. `VUE_APP_BASE_URL` should contain the URL of your Vue Black Dashboard Project (eg. http://localhost:8080/)
-5. `VUE_API_BASE_URL` should contain the URL of your Laravel JSON:API Project. (eg. http://localhost:3000/api/v1)
-6. Run `npm run dev` to start the application in a local development environment or `npm run build` to build release distributables.
+4. `VUE_APP_BASE_URL` should contain the URL of your Vue Material Dashboard Project (eg. http://localhost:8080/)
+5. `VUE_APP_API_BASE_URL` should contain the URL of your Laravel JSON:API Project. (eg. http://localhost:3000/api/v1)
+6. Run `npm run dev` to start the application in a local development environment or `npm run build`  to build release distributables.
 
 ## Usage
 

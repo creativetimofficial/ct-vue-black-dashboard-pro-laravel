@@ -4,7 +4,7 @@
 
 _Vue version_: Vue Black Dashboard v1.2.3. More info at https://www.creative-tim.com/product/vue-black-dashboard-pro
 
-![Product Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-black-dashboard-laravel-pro/intro.gif)
+![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/403/original/opt_bdp_vuelaravel_thumbnail.jpg)
 
 What if you could go from frontend to fullstack in an instant when building your app? We partnered with [UPDIVISION](https://updivision.com) to bring you Vue Black Dashboard PRO , the ultimate fullstack resource. Vue Black Dashboard PRO comes not only with a huge number of UI components and a Vue Black frontend, but also with an API-powered Laravel backend.
 

@@ -15,3 +15,6 @@ All notable changes to `Vue Black Dashboard PRO Laravel`  will be documented in 
 - Category CRUD
 - Item CRUD
 - User roles & access restrictions
+
+## Version 1.0.1
+Update to Laravel 9.x

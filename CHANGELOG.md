@@ -18,3 +18,6 @@ All notable changes to `Vue Black Dashboard PRO Laravel`  will be documented in 
 
 ## Version 1.0.1
 Update to Laravel 9.x
+
+## Version 1.1.0
+Update to Laravel 11.x
